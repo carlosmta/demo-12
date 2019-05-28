@@ -1,4 +1,3 @@
 # villanos 
 
 * venom
-* Capitán America
